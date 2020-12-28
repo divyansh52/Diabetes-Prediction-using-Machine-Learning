@@ -2,12 +2,14 @@ This project is based on Diabetes Prediction using Machine Learning. The Pima In
 This database can be easily downloaded from the Kaggle website.
 
 Operational Environment:
-	Processor : Intel i5 (8th generation)
-	Hard Disk : 1 TB
-	RAM : 8 GB
-	Operating System - Windows 10
 
-Language, Tools and Libraries:
+	Processor : Intel i5 (8th generation) 
+	Hard Disk : 1 TB 
+	RAM : 8 GB 
+	Operating System - Windows 10 
+
+Language, Tools and Libraries: 
+
 	Language : Python3
 
 	Tools : Anaconda 3
